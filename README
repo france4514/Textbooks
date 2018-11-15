@@ -1,10 +1,1 @@
-Objective: analyze the associated sales between a list of 20 first price windows and their counterparts from the international family 239 in the Wood product department (02).
-
-METHOD:
-1. creation of a table on Teradata for the 20 first price references of windows
-2. identification of all 239 family products on teradata
-3. identification of all ticket lines including both a first price reference and a product from the 239 family
-4. count of all these occurences
-
-DELIVERABLE:
-- csv files containing list of occurences and a cross table of all assoicated references
+Code for Muller's Book adapted to MSDS 422 course exercises
